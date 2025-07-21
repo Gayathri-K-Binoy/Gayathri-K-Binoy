@@ -26,7 +26,7 @@
 
 ---
 
-### 🌍 Connect with Me
+### 🌍 Connect With Me
 <p align="center">
   <a href="https://in.linkedin.com/in/gayathri-k-binoy-581a7434a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
